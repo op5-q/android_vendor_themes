@@ -1,30 +1,13 @@
 # Accents
 PRODUCT_PACKAGES += \
-    Amber \
-    Black \
-    Blue \
-    BlueGrey \
-    Brown \
-    Cyan \
-    DeepOrange \
-    DeepPurple \
-    Green \
-    Grey \
-    Indigo \
-    LightBlue \
-    LightGreen \
-    Lime \
-    Orange \
-    Pink \
-    Purple \
-    Red \
-    Teal \
-    UserOne \
-    UserTwo \
-    UserThree \
-    UserFour \
-    UserFive \
-    UserSix \
-    UserSeven \
-    Yellow \
-    White
+    AccentColorYellowOverlay \
+    AccentColorVioletOverlay \
+    AccentColorTealOverlay \
+    AccentColorRedOverlay \
+    AccentColorQGreenOverlay \
+    AccentColorPinkOverlay \
+    AccentColorLightPurpleOverlay \
+    AccentColorIndigoOverlay \
+    AccentColorFlatPinkOverlay \
+    AccentColorCyanOverlay \
+    AccentColorBlueGrayOverlay
