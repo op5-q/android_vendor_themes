@@ -8,4 +8,4 @@ include vendor/themes/accents.mk
 include vendor/themes/sounds.mk
 
 # Themes
-#include vendor/themes/themes.mk
+include vendor/themes/themes.mk

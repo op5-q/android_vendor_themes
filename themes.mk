@@ -1,18 +1,9 @@
-# QS tile styles
+# Custom Overlays
 PRODUCT_PACKAGES += \
-    QStilesSquare \
-    QStilesRoundedSquare \
-    QStilesSquircle \
-    QStilesTearDrop
-
-# Themes
-PRODUCT_PACKAGES += \
-    GBoardDark \
-    GBoardLight \
-    GoogleIntelligenceSenseDark \
-    GoogleIntelligenceSenseLight \
-    SettingsDark \
-    SettingsIntelligenceDark \
-    SystemDark \
-    SystemUiDark \
-    WellbeingDark
+    SystemPitchBlackOverlay \
+    SystemDarkGrayOverlay \
+    SystemUIDarkGrayOverlay \
+    SystemStyleOverlay \
+    SystemUIStyleOverlay \
+    SystemNightOverlay \
+    SystemUINightOverlay
